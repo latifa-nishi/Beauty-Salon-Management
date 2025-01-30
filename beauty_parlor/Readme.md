@@ -7,18 +7,18 @@ How to run the Beauty Palour Management System (BPMS) Project
 6.	Import beauty_parlor.sql file (given inside the zip package in SQL file folder) 
 7.	Run the script --> http://localhost/ beauty_parlor (frontend)
 
-LogIn Info
+                      ** LogIn Info**
 
  *******Credential for ADMIN panel******* 
-:Email or Phone Number: latifa@admin.com/ 01234567890
+: Email or Phone Number: latifa@admin.com/ 01234567890
 
 *******Credential for RECEPTIONIST panel******* 
-:Email or Phone Number: farzana@bparlor.com/ 01799887766
+: Email or Phone Number: farzana@bparlor.com/ 01799887766
 
 *******Credential for STAFF panel******* 
-:Email or Phone Number: sultana@bparlor.com/ 01733445566
+: Email or Phone Number: sultana@bparlor.com/ 01733445566
 
 *******Credential for CUSTOMER panel******* 
-:Email or Phone Number: farzana@gmail.com/ 01711234567
+: Email or Phone Number: farzana@gmail.com/ 01711234567
 
 Or Register as a new user.
