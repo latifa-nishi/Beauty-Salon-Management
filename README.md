@@ -60,4 +60,4 @@ This project is a database management system designed to streamline and enhance 
 3. **Analyze Diagrams**:  
    - Refer to `ER Diagram.png` and `Schema.png` for database structure understanding.  
 
-🎯 **For educational purposes – feel free to use, improve, and adapt!** 🚀  
+  
